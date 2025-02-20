@@ -2,7 +2,7 @@
 This project is the code implementation of the paper "EDB-Net: Entropy Dual-Branch Network for Improved Few-Shot Text Classification".
 The code is about to be uploaded.
 # Data
-The datasets required for the experiment are shown in the table below. To ensure reproducibility, we have already uploaded them to this repository, and they can be directly downloaded for use. 
+The datasets required for the experiment are shown in the table below. 
 | Dataset | Avg. Length | Samples | Train / Valid / Test |
 | ---- | ---- | ---- | ---- |
 | HuffPost | 11.48 | 36900 | 20 / 5 / 16 |
