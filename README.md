@@ -1,4 +1,4 @@
-# EDB-Net
+<!--# EDB-Net
 This project is the code implementation of the paper "EDB-Net: Entropy Dual-Branch Network for Improved Few-Shot Text Classification".
 # Data
 The datasets required for the experiment are shown in the table below. 
@@ -20,4 +20,5 @@ pip install -r requirements.txt
 sh run.sh
 ``` 
 Noting: before you start, you should download bert-base-uncased from https://huggingface.co/google-bert/bert-base-uncased, and change the path to your own file path.
-
+-->
+Upon acceptance of the paper, we will publicly release the relevant research code.
